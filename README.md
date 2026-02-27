@@ -1,64 +1,81 @@
 # ATC Design & Strategy
 
-Design • UX • Strategy • Technology
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1558655146-364adaf1fcc9" width="100%" alt="Creative Workspace Banner"/>
+</p>
 
-We craft thoughtful digital experiences through strategic design and disciplined development.  
-Our work blends creativity with structure to build scalable, user-centered digital products.
+<h3 align="center">
+Design • Strategy • Digital Craft
+</h3>
 
-🌐 Website: https://www.atcdesignstudio.com/
+<p align="center">
+We design purposeful digital experiences that combine clarity, structure, and impact.
+</p>
 
----
-
-## What We Do
-
-- UI / UX Design
-- Brand & Visual Systems
-- Product Strategy
-- Frontend Development
-- Digital Experience Design
-- Design Systems
+<p align="center">
+🌐 <a href="https://www.atcdesignstudio.com/">atcdesignstudio.com</a>
+</p>
 
 ---
 
-## Our Approach
+## Who We Are
 
-We believe great products are built at the intersection of:
+ATC Design & Strategy is a multidisciplinary design studio focused on building thoughtful digital products.
 
-- Clear Strategy
-- Intentional Design
-- Clean Architecture
-- Collaborative Execution
-
-Every project follows a structured process:
-1. Research & Discovery  
-2. Strategy & Planning  
-3. Design & Prototyping  
-4. Development & Optimization  
-5. Continuous Improvement  
+We blend:
+- Strategic thinking  
+- Human-centered design  
+- Clean development architecture  
+- Scalable digital systems  
 
 ---
 
-## Our Principles
+## What We Build
 
-- Clarity over clutter  
-- Function over noise  
-- Systems over shortcuts  
-- Quality over speed  
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70" width="30%" />
+  <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7" width="30%" />
+  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d" width="30%" />
+</p>
+
+- UI / UX Systems  
+- Design Systems  
+- Digital Brand Experiences  
+- Web Platforms  
+- Product Interfaces  
+- Frontend Architecture  
+
+---
+
+## Our Philosophy
+
+> Simplicity is strategic.  
+> Structure enables creativity.  
+> Good design scales.  
+
+We believe strong digital products are built through disciplined execution and thoughtful design systems.
 
 ---
 
 ## Collaboration
 
-We welcome collaboration with developers, designers, and strategic partners who value:
+We collaborate with founders, product teams, and technical partners who value:
 
-- Clean code
-- Scalable architecture
-- Thoughtful UX
-- Process-driven execution
+✔ Clean architecture  
+✔ Scalable systems  
+✔ Meaningful UX  
+✔ Long-term thinking  
 
-For project inquiries or collaboration:
-📩 hello@atcdesignstudio.com  
+---
+
+<p align="center">
+  Let’s build digital experiences that matter.
+</p>
+
+<p align="center">
+📩 trideep@atcdesignstudio.com 
 🌐 https://www.atcdesignstudio.com/
+</p>
 
 ---
 
