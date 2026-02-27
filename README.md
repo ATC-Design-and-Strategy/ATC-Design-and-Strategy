@@ -1,63 +1,63 @@
-<div align="center" style="position: relative;">
+# ATC Design & Strategy
 
-<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1506&auto=format&fit=crop" width="100%" style="border-radius:12px; opacity:0.85;" />
+Design • UX • Strategy • Technology
 
-</div>
+We craft thoughtful digital experiences through strategic design and disciplined development.  
+Our work blends creativity with structure to build scalable, user-centered digital products.
 
-<br/>
-
-<h1 align="center">ATC Design & Strategy</h1>
-
-<p align="center">
-<strong>Design • Strategy • Digital Systems</strong>
-</p>
-
-<p align="center">
-We build structured, scalable and meaningful digital experiences.
-</p>
-
-<p align="center">
-🌐 <a href="https://www.atcdesignstudio.com/">atcdesignstudio.com</a>
-</p>
+🌐 Website: https://www.atcdesignstudio.com/
 
 ---
 
-## About
+## What We Do
 
-ATC Design & Strategy is a multidisciplinary design studio focused on crafting digital products that combine strategic clarity with refined execution.
-
-We operate at the intersection of:
-
-- Strategic Thinking  
-- UX-Centered Design  
-- Frontend Architecture  
-- Scalable Digital Systems  
+- UI / UX Design
+- Brand & Visual Systems
+- Product Strategy
+- Frontend Development
+- Digital Experience Design
+- Design Systems
 
 ---
 
-## Core Capabilities
+## Our Approach
 
-- UI / UX Design  
-- Product Strategy  
-- Digital Branding  
-- Design Systems  
-- Web Platforms  
-- Frontend Development  
+We believe great products are built at the intersection of:
+
+- Clear Strategy
+- Intentional Design
+- Clean Architecture
+- Collaborative Execution
+
+Every project follows a structured process:
+1. Research & Discovery  
+2. Strategy & Planning  
+3. Design & Prototyping  
+4. Development & Optimization  
+5. Continuous Improvement  
 
 ---
 
-## Philosophy
+## Our Principles
 
-We don’t design for decoration.  
-We design for structure, performance, and long-term scalability.
+- Clarity over clutter  
+- Function over noise  
+- Systems over shortcuts  
+- Quality over speed  
 
 ---
 
 ## Collaboration
 
-We collaborate with founders, product teams, and technology partners who value discipline, clarity, and execution excellence.
+We welcome collaboration with developers, designers, and strategic partners who value:
 
-📩 trideep@atcdesignstudio.com  
+- Clean code
+- Scalable architecture
+- Thoughtful UX
+- Process-driven execution
+
+For project inquiries or collaboration:
+📩 hello@atcdesignstudio.com  
 🌐 https://www.atcdesignstudio.com/
 
 ---
