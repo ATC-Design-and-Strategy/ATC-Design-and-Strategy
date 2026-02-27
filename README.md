@@ -1,4 +1,4 @@
-# ATC Design & Strategy
+## ATC Design & Strategy
 
 Design • UX • Strategy • Technology
 
@@ -57,7 +57,7 @@ We welcome collaboration with developers, designers, and strategic partners who 
 - Process-driven execution
 
 For project inquiries or collaboration:
-📩 hello@atcdesignstudio.com  
+📩 trideep@atcdesignstudio.com
 🌐 https://www.atcdesignstudio.com/
 
 ---
