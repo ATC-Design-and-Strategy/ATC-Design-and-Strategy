@@ -1,13 +1,19 @@
-# ATC Design & Strategy
+<div align="center" style="position: relative;">
+
+<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1506&auto=format&fit=crop" width="100%" style="border-radius:12px; opacity:0.85;" />
+
+</div>
+
+<br/>
+
+<h1 align="center">ATC Design & Strategy</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2000&auto=format&fit=crop" width="100%" alt="Abstract design banner"/>
+<strong>Design • Strategy • Digital Systems</strong>
 </p>
 
-<h3 align="center">Design • Strategy • Digital Systems</h3>
-
 <p align="center">
-We build structured, scalable, and meaningful digital experiences.
+We build structured, scalable and meaningful digital experiences.
 </p>
 
 <p align="center">
@@ -16,26 +22,20 @@ We build structured, scalable, and meaningful digital experiences.
 
 ---
 
-## About Us
+## About
 
-ATC Design & Strategy is a multidisciplinary studio focused on crafting digital products that balance creativity with clarity.
+ATC Design & Strategy is a multidisciplinary design studio focused on crafting digital products that combine strategic clarity with refined execution.
 
-We work at the intersection of:
+We operate at the intersection of:
 
-- Strategic thinking  
-- UX-driven design  
-- Clean frontend architecture  
-- Scalable systems  
+- Strategic Thinking  
+- UX-Centered Design  
+- Frontend Architecture  
+- Scalable Digital Systems  
 
 ---
 
-## Core Expertise
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1545235617-9465d2a55698?q=80&w=1000&auto=format&fit=crop" width="30%" />
-  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d?q=80&w=1000&auto=format&fit=crop" width="30%" />
-  <img src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1000&auto=format&fit=crop" width="30%" />
-</p>
+## Core Capabilities
 
 - UI / UX Design  
 - Product Strategy  
@@ -46,22 +46,16 @@ We work at the intersection of:
 
 ---
 
-## Our Approach
+## Philosophy
 
-We don’t chase trends.  
-We build structured systems that last.
-
-1. Research & Discovery  
-2. Strategic Planning  
-3. Design Execution  
-4. Technical Implementation  
-5. Continuous Optimization  
+We don’t design for decoration.  
+We design for structure, performance, and long-term scalability.
 
 ---
 
 ## Collaboration
 
-We collaborate with founders, startups, and product teams who value clarity, structure, and scalable digital systems.
+We collaborate with founders, product teams, and technology partners who value discipline, clarity, and execution excellence.
 
 📩 trideep@atcdesignstudio.com  
 🌐 https://www.atcdesignstudio.com/
