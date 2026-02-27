@@ -1,15 +1,13 @@
 # ATC Design & Strategy
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558655146-364adaf1fcc9" width="100%" alt="Creative Workspace Banner"/>
+  <img src="https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2000&auto=format&fit=crop" width="100%" alt="Abstract design banner"/>
 </p>
 
-<h3 align="center">
-Design • Strategy • Digital Craft
-</h3>
+<h3 align="center">Design • Strategy • Digital Systems</h3>
 
 <p align="center">
-We design purposeful digital experiences that combine clarity, structure, and impact.
+We build structured, scalable, and meaningful digital experiences.
 </p>
 
 <p align="center">
@@ -18,64 +16,55 @@ We design purposeful digital experiences that combine clarity, structure, and im
 
 ---
 
-## Who We Are
+## About Us
 
-ATC Design & Strategy is a multidisciplinary design studio focused on building thoughtful digital products.
+ATC Design & Strategy is a multidisciplinary studio focused on crafting digital products that balance creativity with clarity.
 
-We blend:
+We work at the intersection of:
+
 - Strategic thinking  
-- Human-centered design  
-- Clean development architecture  
-- Scalable digital systems  
+- UX-driven design  
+- Clean frontend architecture  
+- Scalable systems  
 
 ---
 
-## What We Build
+## Core Expertise
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70" width="30%" />
-  <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7" width="30%" />
-  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d" width="30%" />
+  <img src="https://images.unsplash.com/photo-1545235617-9465d2a55698?q=80&w=1000&auto=format&fit=crop" width="30%" />
+  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d?q=80&w=1000&auto=format&fit=crop" width="30%" />
+  <img src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1000&auto=format&fit=crop" width="30%" />
 </p>
 
-- UI / UX Systems  
+- UI / UX Design  
+- Product Strategy  
+- Digital Branding  
 - Design Systems  
-- Digital Brand Experiences  
 - Web Platforms  
-- Product Interfaces  
-- Frontend Architecture  
+- Frontend Development  
 
 ---
 
-## Our Philosophy
+## Our Approach
 
-> Simplicity is strategic.  
-> Structure enables creativity.  
-> Good design scales.  
+We don’t chase trends.  
+We build structured systems that last.
 
-We believe strong digital products are built through disciplined execution and thoughtful design systems.
+1. Research & Discovery  
+2. Strategic Planning  
+3. Design Execution  
+4. Technical Implementation  
+5. Continuous Optimization  
 
 ---
 
 ## Collaboration
 
-We collaborate with founders, product teams, and technical partners who value:
+We collaborate with founders, startups, and product teams who value clarity, structure, and scalable digital systems.
 
-✔ Clean architecture  
-✔ Scalable systems  
-✔ Meaningful UX  
-✔ Long-term thinking  
-
----
-
-<p align="center">
-  Let’s build digital experiences that matter.
-</p>
-
-<p align="center">
-📩 trideep@atcdesignstudio.com 
+📩 trideep@atcdesignstudio.com  
 🌐 https://www.atcdesignstudio.com/
-</p>
 
 ---
 
